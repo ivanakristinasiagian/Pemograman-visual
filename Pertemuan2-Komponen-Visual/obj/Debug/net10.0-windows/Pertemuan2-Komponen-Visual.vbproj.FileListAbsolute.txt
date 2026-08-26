@@ -1,0 +1,16 @@
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\obj\Debug\net10.0-windows\Pertemuan2_Komponen_Visual.Form1.resources
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\obj\Debug\net10.0-windows\Pertemuan2-Komponen-Visual.vbproj.GenerateResource.cache
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\obj\Debug\net10.0-windows\Pertemuan2-Komponen-Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\obj\Debug\net10.0-windows\Pertemuan2-Komponen-Visual.AssemblyInfoInputs.cache
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\obj\Debug\net10.0-windows\Pertemuan2-Komponen-Visual.AssemblyInfo.vb
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\obj\Debug\net10.0-windows\Pertemuan2-Komponen-Visual.vbproj.CoreCompileInputs.cache
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\bin\Debug\net10.0-windows\Pertemuan2-Komponen-Visual.exe
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\bin\Debug\net10.0-windows\Pertemuan2-Komponen-Visual.deps.json
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\bin\Debug\net10.0-windows\Pertemuan2-Komponen-Visual.runtimeconfig.json
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\bin\Debug\net10.0-windows\Pertemuan2-Komponen-Visual.dll
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\bin\Debug\net10.0-windows\Pertemuan2-Komponen-Visual.pdb
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\obj\Debug\net10.0-windows\Pertemuan2-Komponen-Visual.dll
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\obj\Debug\net10.0-windows\refint\Pertemuan2-Komponen-Visual.dll
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\obj\Debug\net10.0-windows\Pertemuan2-Komponen-Visual.pdb
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\obj\Debug\net10.0-windows\Pertemuan2-Komponen-Visual.genruntimeconfig.cache
+C:\pemograman visual\Pertemuan2-Komponen-Visual\Pertemuan2-Komponen-Visual\obj\Debug\net10.0-windows\ref\Pertemuan2-Komponen-Visual.dll
