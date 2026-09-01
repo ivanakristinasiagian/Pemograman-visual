@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pemograman visual\\Pertemuan2-Komponen-Visual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89486B87-11C4-4684-A76D-00C832A7FB8A}|Pertemuan2-Komponen-Visual\\Pertemuan2-Komponen-Visual.vbproj|c:\\pemograman visual\\pertemuan2-komponen-visual\\pertemuan2-komponen-visual\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89486B87-11C4-4684-A76D-00C832A7FB8A}|Pertemuan2-Komponen-Visual\\Pertemuan2-Komponen-Visual.vbproj|solutionrelative:pertemuan2-komponen-visual\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89486B87-11C4-4684-A76D-00C832A7FB8A}|Pertemuan2-Komponen-Visual\\Pertemuan2-Komponen-Visual.vbproj|c:\\pemograman visual\\pertemuan2-komponen-visual\\pertemuan2-komponen-visual\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89486B87-11C4-4684-A76D-00C832A7FB8A}|Pertemuan2-Komponen-Visual\\Pertemuan2-Komponen-Visual.vbproj|solutionrelative:pertemuan2-komponen-visual\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\pemograman visual\\Pertemuan2-Komponen-Visual\\Pertemuan2-Komponen-Visual\\Form1.vb",
+              "RelativeDocumentMoniker": "Pertemuan2-Komponen-Visual\\Form1.vb",
+              "ToolTip": "C:\\pemograman visual\\Pertemuan2-Komponen-Visual\\Pertemuan2-Komponen-Visual\\Form1.vb",
+              "RelativeToolTip": "Pertemuan2-Komponen-Visual\\Form1.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-26T04:41:16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\pemograman visual\\Pertemuan2-Komponen-Visual\\Pertemuan2-Komponen-Visual\\Form1.vb",
+              "RelativeDocumentMoniker": "Pertemuan2-Komponen-Visual\\Form1.vb",
+              "ToolTip": "C:\\pemograman visual\\Pertemuan2-Komponen-Visual\\Pertemuan2-Komponen-Visual\\Form1.vb [Design]",
+              "RelativeToolTip": "Pertemuan2-Komponen-Visual\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-26T01:52:48.248Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

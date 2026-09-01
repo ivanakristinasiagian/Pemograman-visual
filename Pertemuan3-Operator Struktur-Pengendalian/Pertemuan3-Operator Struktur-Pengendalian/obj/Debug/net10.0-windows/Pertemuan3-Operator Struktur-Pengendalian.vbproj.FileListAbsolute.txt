@@ -1,0 +1,19 @@
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\bin\Debug\net10.0-windows\Pertemuan3-Operator Struktur-Pengendalian.exe
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\bin\Debug\net10.0-windows\Pertemuan3-Operator Struktur-Pengendalian.deps.json
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\bin\Debug\net10.0-windows\Pertemuan3-Operator Struktur-Pengendalian.runtimeconfig.json
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\bin\Debug\net10.0-windows\Pertemuan3-Operator Struktur-Pengendalian.dll
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\bin\Debug\net10.0-windows\Pertemuan3-Operator Struktur-Pengendalian.pdb
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\obj\Debug\net10.0-windows\Pertemuan3_Operator_Struktur_Pengendalian.Form1.resources
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\obj\Debug\net10.0-windows\Pertemuan3-Operator Struktur-Pengendalian.vbproj.GenerateResource.cache
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\obj\Debug\net10.0-windows\Pertemuan3-Operator Struktur-Pengendalian.GeneratedMSBuildEditorConfig.editorconfig
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\obj\Debug\net10.0-windows\Pertemuan3-Operator Struktur-Pengendalian.AssemblyInfoInputs.cache
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\obj\Debug\net10.0-windows\Pertemuan3-Operator Struktur-Pengendalian.AssemblyInfo.vb
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\obj\Debug\net10.0-windows\Pertemuan3-Operator Struktur-Pengendalian.vbproj.CoreCompileInputs.cache
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\obj\Debug\net10.0-windows\Pertemuan3-Operator Struktur-Pengendalian.dll
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\obj\Debug\net10.0-windows\refint\Pertemuan3-Operator Struktur-Pengendalian.dll
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\obj\Debug\net10.0-windows\Pertemuan3-Operator Struktur-Pengendalian.pdb
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\obj\Debug\net10.0-windows\Pertemuan3-Operator Struktur-Pengendalian.genruntimeconfig.cache
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\obj\Debug\net10.0-windows\ref\Pertemuan3-Operator Struktur-Pengendalian.dll
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\bin\Debug\net10.0-windows\Asset\1.png
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\bin\Debug\net10.0-windows\Asset\2.png
+C:\pemograman visual\Pertemuan3-Operator Struktur-Pengendalian\Pertemuan3-Operator Struktur-Pengendalian\bin\Debug\net10.0-windows\Asset\3.png
