@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pemograman visual\\Tugas1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDB97F4-8597-43A2-AC14-403B8D910CC9}|Tugas1\\Tugas1.vbproj|c:\\pemograman visual\\tugas1\\tugas1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4BDB97F4-8597-43A2-AC14-403B8D910CC9}|Tugas1\\Tugas1.vbproj|solutionrelative:tugas1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDB97F4-8597-43A2-AC14-403B8D910CC9}|Tugas1\\Tugas1.vbproj|c:\\pemograman visual\\tugas1\\tugas1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4BDB97F4-8597-43A2-AC14-403B8D910CC9}|Tugas1\\Tugas1.vbproj|solutionrelative:tugas1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDB97F4-8597-43A2-AC14-403B8D910CC9}|Tugas1\\Tugas1.vbproj|c:\\pemograman visual\\tugas1\\tugas1\\pajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4BDB97F4-8597-43A2-AC14-403B8D910CC9}|Tugas1\\Tugas1.vbproj|solutionrelative:tugas1\\pajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDB97F4-8597-43A2-AC14-403B8D910CC9}|Tugas1\\Tugas1.vbproj|c:\\pemograman visual\\tugas1\\tugas1\\pajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4BDB97F4-8597-43A2-AC14-403B8D910CC9}|Tugas1\\Tugas1.vbproj|solutionrelative:tugas1\\pajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 359,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 429,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pajak.vb",
+              "DocumentMoniker": "C:\\pemograman visual\\Tugas1\\Tugas1\\pajak.vb",
+              "RelativeDocumentMoniker": "Tugas1\\pajak.vb",
+              "ToolTip": "C:\\pemograman visual\\Tugas1\\Tugas1\\pajak.vb",
+              "RelativeToolTip": "Tugas1\\pajak.vb",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-08T06:15:51.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pajak.vb [Design]",
+              "DocumentMoniker": "C:\\pemograman visual\\Tugas1\\Tugas1\\pajak.vb",
+              "RelativeDocumentMoniker": "Tugas1\\pajak.vb",
+              "ToolTip": "C:\\pemograman visual\\Tugas1\\Tugas1\\pajak.vb [Design]",
+              "RelativeToolTip": "Tugas1\\pajak.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-08T06:06:58.552Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\pemograman visual\\Tugas1\\Tugas1\\Form1.vb",
+              "RelativeDocumentMoniker": "Tugas1\\Form1.vb",
+              "ToolTip": "C:\\pemograman visual\\Tugas1\\Tugas1\\Form1.vb",
+              "RelativeToolTip": "Tugas1\\Form1.vb",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwCsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-08T06:01:39.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\pemograman visual\\Tugas1\\Tugas1\\Form1.vb",
+              "RelativeDocumentMoniker": "Tugas1\\Form1.vb",
+              "ToolTip": "C:\\pemograman visual\\Tugas1\\Tugas1\\Form1.vb [Design]",
+              "RelativeToolTip": "Tugas1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-08T05:54:47.322Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
